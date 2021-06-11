@@ -1,0 +1,107 @@
+.my_container
+{
+    margin-top: 25px;
+}
+
+.my_header
+{
+    margin-top: 25px;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+}
+
+.my_btn
+{
+    width: 100%;
+}
+
+.my_img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border: 5px solid black;
+}
+
+.my_row
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.my_sub_head
+{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.job_desc, .my_head
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+.my_link
+{
+    width: auto;
+    border: none;
+    color: blue;
+    background-color: transparent;
+    text-align: left;
+    opacity: 0.6;
+}
+
+.my_link:hover
+{
+    text-decoration: underline;
+}
+
+.vote
+{
+    display:inline;
+    color: var(--black-500);
+}
+
+.author
+{
+    margin-top: -5px;
+    margin-bottom: 10px;
+    font-size: 12px;
+    line-height: 16px;
+    color: #767676;
+}
+
+.post_date
+{
+    color: #a9b6bc!important;
+}
+
+.no_data
+{
+    text-align: center;
+    margin-top: 150px;
+    color: #767676;
+}
+
+.no_data_comments
+{
+    text-align: center;
+    color: #767676;
+}
+
+.comment_author
+{
+    font-size: 12px;
+    line-height: 16px;
+    color: #767676;
+}
+
+.comment_body
+{
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
